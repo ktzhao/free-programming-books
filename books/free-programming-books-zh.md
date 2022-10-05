@@ -1,4 +1,4 @@
-﻿## 目录
+## 目录
 
 * [语言无关](#语言无关)
     * [版本控制](#版本控制)
@@ -672,7 +672,7 @@
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *(:card_file_box: archived)*
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
-
+* [Python中文指南](https://python.iswbm.com/)
 
 #### Django
 
